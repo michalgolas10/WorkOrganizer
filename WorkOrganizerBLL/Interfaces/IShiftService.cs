@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkOrganizerBLL.Interfaces
 {
-    public interface IOrderService : IModelService
+    public interface IShiftService : IModelService
     {
     }
 }

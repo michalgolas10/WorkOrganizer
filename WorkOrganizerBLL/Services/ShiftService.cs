@@ -8,7 +8,7 @@ using WorkOrganizerDAL.DataModels.BaseEntity;
 
 namespace WorkOrganizerBLL.Services
 {
-    public class OrderService : IOrderService
+    public class ShiftService : IShiftService
     {
         public void Create()
         {
